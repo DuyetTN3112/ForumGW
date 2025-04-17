@@ -1,2 +1,2 @@
 # Forum-Greenwich-FGW-
-project Forum Greenwich
+Project Forum Greenwich

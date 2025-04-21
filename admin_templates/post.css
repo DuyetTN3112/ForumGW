@@ -1,0 +1,62 @@
+/* Thêm CSS cho modal và các thành phần khác */
+.modal-open {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
+
+@keyframes modalFade {
+    from {
+        opacity: 0;
+        transform: translate(-50%, -50%) scale(0.95);
+    }
+    to {
+        opacity: 1;
+        transform: translate(-50%, -50%) scale(1);
+    }
+}                  
+            /* Cho trình duyệt WebKit (Chrome, Safari) */
+#moduleDropdown::-webkit-scrollbar {
+    width: 8px;
+}
+
+#moduleDropdown::-webkit-scrollbar-track {
+    background: #333333;
+}
+
+#moduleDropdown::-webkit-scrollbar-thumb {
+    background: #FF6B00;
+    border-radius: 4px;
+}
+
+/* Cho Firefox */
+#moduleDropdown {
+    scrollbar-width: thin;
+    scrollbar-color: #FF6B00 #333333;
+}
+
+        /* Tùy chỉnh thanh cuộn */
+#createPostModal::-webkit-scrollbar {
+    width: 10px;
+}
+
+#createPostModal::-webkit-scrollbar-track {
+    background: #2C2C2C;
+    border-radius: 10px;
+}
+
+#createPostModal::-webkit-scrollbar-thumb {
+    background: #FF6B00;
+    border-radius: 10px;
+    border: 3px solid #2C2C2C;
+}
+
+#createPostModal::-webkit-scrollbar-thumb:hover {
+    background: #FF8533;
+}
+
+/* Firefox scrollbar */
+#createPostModal {
+    scrollbar-width: thin;
+    scrollbar-color: #FF6B00 #2C2C2C;
+}

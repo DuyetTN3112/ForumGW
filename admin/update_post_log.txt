@@ -1,0 +1,96 @@
+[2024-12-03 04:28:15] POST Data: Array
+(
+    [post_id] => 11
+    [title] => anna
+    [content] => Building full stack applications with AI integration from Frontend to Backend. Detailed guide from design to deployment...........
+    [modules] => Array
+        (
+            [0] => 3
+        )
+
+)
+
+[2024-12-03 04:28:15] FILES Data: Array
+(
+)
+
+[2024-12-03 04:28:15] POST Data: Array
+(
+    [post_id] => 11
+    [title] => anna
+    [content] => Building full stack applications with AI integration from Frontend to Backend. Detailed guide from design to deployment...........
+    [modules] => Array
+        (
+            [0] => 3
+        )
+
+)
+
+[2024-12-03 04:28:15] FILES Data: Array
+(
+)
+
+[2024-12-03 04:28:15] POST Data: Array
+(
+    [post_id] => 11
+    [title] => anna
+    [content] => Building full stack applications with AI integration from Frontend to Backend. Detailed guide from design to deployment...........
+    [modules] => Array
+        (
+            [0] => 3
+        )
+
+)
+
+[2024-12-03 04:28:15] FILES Data: Array
+(
+)
+
+[2024-12-09 02:38:38] POST Data: Array
+(
+    [post_id] => 43
+    [title] => Hoàng Dương
+    [content] => Kiếm bố đường ạ, e không cần gì nhiều chỉ cần thỏa mãn e là đc. yc 1 tuần 5 lần gặp gỡ ạaaa
+    [modules] => Array
+        (
+            [0] => 4
+        )
+
+)
+
+[2024-12-09 02:38:38] FILES Data: Array
+(
+)
+
+[2024-12-09 02:38:38] POST Data: Array
+(
+    [post_id] => 43
+    [title] => Hoàng Dương
+    [content] => Kiếm bố đường ạ, e không cần gì nhiều chỉ cần thỏa mãn e là đc. yc 1 tuần 5 lần gặp gỡ ạaaa
+    [modules] => Array
+        (
+            [0] => 4
+        )
+
+)
+
+[2024-12-09 02:38:38] FILES Data: Array
+(
+)
+
+[2024-12-09 02:38:38] POST Data: Array
+(
+    [post_id] => 43
+    [title] => Hoàng Dương
+    [content] => Kiếm bố đường ạ, e không cần gì nhiều chỉ cần thỏa mãn e là đc. yc 1 tuần 5 lần gặp gỡ ạaaa
+    [modules] => Array
+        (
+            [0] => 4
+        )
+
+)
+
+[2024-12-09 02:38:38] FILES Data: Array
+(
+)
+
